@@ -51,7 +51,8 @@ section {
 }
 
 .section-header h2 {
-  font-size: 13px;
+  font-size: 38px;
+  line-height: 42px;
   letter-spacing: 1px;
   font-weight: 700;
   margin: 0;
@@ -62,8 +63,7 @@ section {
 .section-header p {
   margin: 10px 0 0 0;
   padding: 0;
-  font-size: 38px;
-  line-height: 42px;
+  font-size: 13px;
   font-weight: 700;
   color: #012970;
 }
